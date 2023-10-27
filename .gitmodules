@@ -1,0 +1,3 @@
+[submodule "sign_detector/mmaction2"]
+	path = sign_detector/mmaction2
+	url = https://github.com/open-mmlab/mmaction2
